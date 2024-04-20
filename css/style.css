@@ -1,0 +1,17 @@
+.profile-img{
+    border-radius: 50%;
+}
+
+.img-proj{
+    float: left;
+    margin-right: 30px;
+}
+
+.img-1{
+    margin-left: 40px;
+}
+
+.Intro, .projects{
+    background: #102C57;
+    color: white;
+}
